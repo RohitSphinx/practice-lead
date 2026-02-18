@@ -4,16 +4,16 @@ import { SlideData } from './types';
 export const SLIDES: SlideData[] = [
   {
     id: 1,
-    title: "Practice Manager and Technical Lead Onboarding",
-    subtitle: "Align. Define. Establish. Enable.",
+    title: "Practice Manager & Technical Lead Onboarding",
+    subtitle: "The Path to Practice Leadership",
     type: 'intro',
     content: [
-      "Align Practice Managers to a common operating model",
-      "Define ownership, accountability, and success metrics",
-      "Establish a data-driven, outcome-focused practice culture",
-      "Enable scalable growth across technology practices"
+      "Align Practice Managers and Technical Leaders to a common operating model",
+      "Establish the foundation needed to build and scale our practices",
+      "Define clear ownership, accountability, and success metrics",
+      "Transition from execution coordinators to true practice owners"
     ],
-    highlight: "Outcome: Clear understanding of what to run, how to measure, and how to win"
+    highlight: "Mission: Aligning leadership to establish a world-class, outcome-focused culture."
   },
   {
     id: 2,
@@ -34,14 +34,14 @@ export const SLIDES: SlideData[] = [
   {
     id: 3,
     title: "Practice Operating Model",
-    subtitle: "The Three Pillars of Success",
+    subtitle: "Aligning Leaders to a Common Core",
     type: 'grid',
     content: [
       "People Excellence",
       "Delivery Excellence",
       "Business & Financial Excellence"
     ],
-    highlight: "Manager Accountability: Revenue health, Talent readiness, Client satisfaction, Innovation"
+    highlight: "Alignment: Managers & Tech Leads working in tandem to drive health, growth, and maturity."
   },
   {
     id: 4,
@@ -164,7 +164,7 @@ export const SLIDES: SlideData[] = [
   },
   {
     id: 12,
-    title: "Practice Managers – ✅ DO’s",
+    title: "Practice Leaders – ✅ DO’s",
     subtitle: "Excellence in Ownership and Action",
     type: 'dos-donts',
     dos: [
@@ -183,7 +183,7 @@ export const SLIDES: SlideData[] = [
   },
   {
     id: 13,
-    title: "Practice Managers – ❌ DON’Ts",
+    title: "Practice Leaders – ❌ DON’Ts",
     subtitle: "Common Pitfalls to Avoid",
     type: 'dos-donts',
     dos: [],
