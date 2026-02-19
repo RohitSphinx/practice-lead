@@ -3,18 +3,20 @@ import { SlideData } from './types';
 
 export const SLIDES: SlideData[] = [
   {
-    id: 1,
-    title: "Practice Manager & Technical Lead Onboarding",
-    subtitle: "The Path to Practice Leadership",
-    type: 'intro',
-    content: [
-      "Align Practice Managers and Technical Leaders to a common operating model",
-      "Establish the foundation needed to build and scale our practices",
-      "Define clear ownership, accountability, and success metrics",
-      "Transition from execution coordinators to true practice owners"
-    ],
-    highlight: "Mission: Aligning leadership to establish a world-class, outcome-focused culture."
-  },
+  id: 1,
+  title: "Path to Practice Leadership",
+  subtitle: "From Project & Team Leadership to Practice Ownership",
+  type: "intro",
+  content: [
+    "Define a clear leadership progression from Project and Team Leads to Practice Lead",
+    "Align delivery leaders to a unified operating, governance, and management model",
+    "Set expectations for owning people, delivery, quality, and financial outcomes at practice level",
+    "Build the foundation required to organize, manage, and scale a practice",
+    "Enable the transition from project execution leadership to full practice ownership"
+  ],
+  highlight: "Mission: Developing Practice Leaders who own outcomes, scale capabilities, and run high-performing practices."
+}
+,
   {
     id: 2,
     title: "Our Technology Practices",
