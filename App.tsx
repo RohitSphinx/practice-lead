@@ -122,8 +122,7 @@ const App: React.FC = () => {
       {/* Floating UI Elements */}
       <div className="fixed top-8 right-8 z-50 flex space-x-4 opacity-40 hover:opacity-100 transition-opacity">
          <div className="bg-white border border-slate-200 px-3 py-1 rounded-md text-[10px] text-slate-500 font-bold tracking-widest uppercase">
-            PM ONBOARDING_V1.0
-         </div>
+             </div>
       </div>
     </div>
   );
