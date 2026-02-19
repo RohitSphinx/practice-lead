@@ -24,7 +24,7 @@ export const SLIDES: SlideData[] = [
       "CyberSecurity",
       "Custom Solutions PHP/ Python & Data Engineering",
       "Custom Solutions - React, Node.js, NestJS, Angular",
-      "Data Engineering & Backend",
+      "Dynamics CRM",
       "UI / UX",
       "SharePoint & Low-Code Platforms",
       "Cloud & DevOps"
