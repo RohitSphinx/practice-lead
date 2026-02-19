@@ -9,10 +9,9 @@ export const SLIDES: SlideData[] = [
   type: "intro",
   content: [
     "Define a clear leadership progression from Project and Team Leads to Practice Lead",
-    "Align delivery leaders to a unified operating, governance, and management model",
-    "Set expectations for owning people, delivery, quality, and financial outcomes at practice level",
-    "Build the foundation required to organize, manage, and scale a practice",
-    "Enable the transition from project execution leadership to full practice ownership"
+  "Align leaders to a unified operating, governance, and management model",
+  "Set clear expectations for owning people, delivery, quality, and financial outcomes",
+  "Enable the transition from project execution leadership to full practice ownership"
   ],
   highlight: "Mission: Developing Practice Leaders who own outcomes, scale capabilities, and run high-performing practices."
 }
